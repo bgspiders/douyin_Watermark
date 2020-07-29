@@ -3,3 +3,4 @@
 截止到目前可以去除抖音分享的视频的地址的水印，
 具体方法可以去下面的这个地址有详细的过程
 https://blog.csdn.net/weixin_43927238/article/details/107645259
+免费的去水印的地址：http://wensong.xyz:9999/
