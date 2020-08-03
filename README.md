@@ -4,3 +4,4 @@
 具体方法可以去下面的这个地址有详细的过程
 https://blog.csdn.net/weixin_43927238/article/details/107645259
 免费的去水印的地址：http://wensong.xyz:9999/
+快手的去水印的方法，因为快手需要携带cookies或者是ip问题，需要自己更改，一般就是把cookie替换成自己浏览器的就可以了
