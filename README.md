@@ -3,7 +3,7 @@
 截止到目前可以去除抖音分享的视频的地址的水印，
 具体方法可以去下面的这个地址有详细的过程
 https://blog.csdn.net/weixin_43927238/article/details/107645259
-免费的去水印的地址：http://wensong.xyz:9999/
+免费的去水印的地址：http://wensong.xyz/dou
 快手的去水印的方法，因为快手需要携带cookies或者是ip问题，需要自己更改，一般就是把cookie替换成自己浏览器的就可以了
 对于经常刷抖音的人来说在保存视频的时候会发现视频会携带水印，下面是去完水印的样子
 ![无水印](https://img-blog.csdnimg.cn/20200728210940310.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkyNzIzOA==,size_16,color_FFFFFF,t_70)
